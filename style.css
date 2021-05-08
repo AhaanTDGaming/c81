@@ -1,0 +1,13 @@
+.body_background{
+    background-image:url("images.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h1{
+color:aquamarine;
+font-size: 30px;
+}
+#myCanvas{
+background-color:azure;
+border-style:ridge ;
+}
